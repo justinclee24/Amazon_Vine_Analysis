@@ -16,7 +16,7 @@ The purpose of the analysis of the Vine program is to find whether there is any 
 - Non-Vine Review 5-Star Percentage: 53%
 
 ## Summary
-
+In short, the Vine Review program does not create positivity bias for products being critiqued, as five-star reviews among the Vine program have a lower percentage of total reviews compared to its Non-Vine reviews counterpart. To confirm this conclusion, further investigation implementing whether the reviews were verified purchases would be of use. Also, to dive deeper, a machine learning model, such as an over/undersampling prediction model could provide more data to solidify the presence of bias, or lack there of.
 
 - Vine Summary
 <img width="653" alt="vine" src="https://user-images.githubusercontent.com/85330159/135767624-ad679b41-21a5-461a-a675-6b72d31b1655.png">
